@@ -8,5 +8,6 @@
 /httpRequests/
 
 /node_modules
+.idea
 
 /Configuration/config.env
